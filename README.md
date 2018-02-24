@@ -1,4 +1,4 @@
-#About Me
+# About Me
 My name is Stella Ndirangu
 I am currently a freelance WordPress designer. 
 I am very interested in learning and growing as a software developer. 
